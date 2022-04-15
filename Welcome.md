@@ -1,19 +1,3 @@
-<style>
-ttitleH1{
-  text-align: center;
-  color: rgb(251, 255, 0);
-}
-ttitle{
-  text-align: center;
-  color: rgb(201, 204, 31);
-}
-uul{
-  color: yellow
-}
-lli{
-  color:white;
-}
-</style>
 <h1 style="text-align: center;
   color: rgb(251, 255, 0);">Hi there! I'm Agus Villagrán👋🏽</h1>
 <h3 style="text-align: center;
