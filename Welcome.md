@@ -1,20 +1,3 @@
-<style>
-.titleH1{
-  text-align: center;
-  color: rgb(251, 255, 0);
-  margin: 0;
-}
-.title{
-  text-align: center;
-  color: rgb(201, 204, 31);
-}
-ul{
-  color: yellow
-}
-li{
-  color:white;
-}
-</style>
 <h1 class="titleH1">Hi there! I'm Agus Villagrán👋🏽</h1>
 <h3 class="title">Web Full Stack Developer</h3>
 <br>
