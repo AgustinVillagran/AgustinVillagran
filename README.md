@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi there! I'm Agus Villagrán👋🏽</h1>
 <h3 align="center";
   color: rgb(251, 255, 0);">Web Full Stack Developer</h3>
@@ -77,6 +76,4 @@
     </p>
   <br>
 </ul>
-<p><img src="./Media/Lenguages.png" alt="AgustinVillagran" height=120/></p>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="agustinvillagran" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/agustinvillagran?trk=profile-badge">Marcelo Agustín Villagrán</a></div>
               
