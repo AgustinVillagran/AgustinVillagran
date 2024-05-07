@@ -25,8 +25,8 @@
 <h3 align="center">Want to know more about me? 👇🏽</h3>
 <br>
 <ul> Conect with me... <in class=""></in>
-  <li ><a href="https://drive.google.com/file/d/1tfB4gQmv-b3fgCqXlRKgIkZHT6HoQcvP/view?usp=sharing">My foundations and experience 🖖🏽</a></li>
-  <li ><a href="https://www.linkedin.com/in/agust%C3%ADn-villagr%C3%A1n/" target="blank">My LinkedIn </a><img height=15 width=20 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/agust%C3%ADn-villagr%C3%A1n/"/></li>
+<!--   <li ><a href="https://drive.google.com/file/d/1tfB4gQmv-b3fgCqXlRKgIkZHT6HoQcvP/view?usp=sharing">My foundations and experience 🖖🏽</a></li> -->
+  <li ><a href="https://www.linkedin.com/in/agustinvillagran/" target="blank">My LinkedIn </a><img height=15 width=20 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/agust%C3%ADn-villagr%C3%A1n/"/></li>
   <li ><a href="mailto:magustin.villagran@gmail.com">Mail me 📩</a></li>
 </ul>
 <br>
@@ -48,9 +48,6 @@
     <ul>
       <li><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git & GitFlow</li>
       <li><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> Postman</li>
-      <li><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> Heroku</li>
-      <li><img src="https://avatars.githubusercontent.com/u/42682871?s=280&v=4" alt="render" width="40" height="40"/> Render</li>
-      <li><img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" alt="vercel" width="40" height="40"/> Vercel</li>
     </ul>
     </p>
     <br>
@@ -58,6 +55,7 @@
     <br>
     <p>
       <ul>
+      <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySql</li>
       <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> Postgresql </li>
       <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> MongoDB</li>
     </ul>
@@ -86,13 +84,5 @@
       </ul>
       </p>
     <br>
-  <li >Cooming soon</li>
-  <br>
-    <p>
-      <ul>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> MySql</li>
-      </ul>
-    </p>
-  <br>
 </ul>
               
