@@ -19,7 +19,6 @@
 <ul >I'm...
   <li >Open to contribute to philanthropic projects. ⛑</li>
   <li >Full Stack Developer with 🌶 in backend.</li>
-  <li >Work in Rebill. 🚀</li>
 </ul>
 <br>
 <h3 align="center">Want to know more about me? 👇🏽</h3>
