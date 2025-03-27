@@ -2,7 +2,7 @@
 <h3 align="center";
   color: rgb(251, 255, 0);">Web Full Stack Developer</h3>
   <br>
-<p>NB, this is so outdated, I prefer to spent mi time on real projects than in this kind of stuff.</p>
+<p>NB, this is so outdated, I prefer to spent my time on real projects than in this kind of stuff.</p>
 <p>So, if you want to be updated about me, please reaching me out by LinkedIn/email!</p>
 <br>
 <p>Well well, let's start a short presentation about me:</p>
